@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    // Start is called once before the first execution of Update after the MonoBehaviour is created``````
     void Start()
     {
         Debug.Log("hello World");
@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        print("Yes it's working");
         
     }
 }
